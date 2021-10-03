@@ -26,13 +26,15 @@ Content
         * https://github.com/FullStack-Swift/rxswift-composable-architecture
         * https://github.com/FullStack-Swift/reactiveswift-composable-architecture
      * supoort IOS 11
-         * https://github.com/FullStack-Swift/reactiveswift-core-architecture
-         * https://github.com/FullStack-Swift/rxswift-core-architecture
+        * https://github.com/FullStack-Swift/combine-core-architecture
+        * https://github.com/FullStack-Swift/rxswift-core-architecture
+        * https://github.com/FullStack-Swift/reactiveswift-core-architecture
      * examples
-         * https://github.com/FullStack-Swift/TodoFullStackSwift
+        * https://github.com/FullStack-Swift/TodoFullStackSwift
      * template
-         * https://github.com/FullStack-Swift/TCA-UIKit-Template
-         * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
+        * https://github.com/FullStack-Swift/TCA-UIKit-Template
+        * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
+        
     * ### Awesome TCA
 
         * https://www.pointfree.co/collections/composable-architecture
@@ -46,24 +48,24 @@ Content
 
     * ## Redux: 
 
-        * <https://github.com/ReSwift/ReSwift.git>
-        * <https://github.com/SwiftRex/SwiftRex>
-        * <https://github.com/Dimillian/SwiftUIFlux.git>
+        * https://github.com/ReSwift/ReSwift
+        * https://github.com/SwiftRex/SwiftRex
+        * https://github.com/Dimillian/SwiftUIFlux
 
     * ## Feedback(Loop)
 
-        * <https://github.com/sergdort/CombineFeedback>
-        * <https://github.com/ReactiveCocoa/Loop.git>
-        * <https://github.com/NoTests/RxFeedback.swift>
+        * https://github.com/sergdort/CombineFeedback
+        * https://github.com/ReactiveCocoa/Loop.git>
+        * https://github.com/NoTests/RxFeedback.swift
         * https://github.com/CombineCommunity/Feedbacks
         * https://github.com/Spinners/Spin.Swift
 
     *  ## Unidirectional Data Flow
 
-        * https://github.com/BendingSpoons/katana-swift.git
+        * https://github.com/BendingSpoons/katana-swift
         * https://github.com/ra1028/VueFlux
         * https://github.com/ReactorSwift/Reactor
-        * https://github.com/ReactorKit/ReactorKit.git
+        * https://github.com/ReactorKit/ReactorKit
 
     * ## Clean (VIP)
 
@@ -76,7 +78,7 @@ Content
 
     * ## VIPER
 
-        * https://github.com/ferranabello/Viperit.git
+        * https://github.com/ferranabello/Viperit
 
     * ## MVVMC
 
@@ -88,7 +90,7 @@ Content
 
     * ## MVP
 
-        * https://github.com/Lascorbe/SwiftUI-MVP-Coordinator.git
+        * https://github.com/Lascorbe/SwiftUI-MVP-Coordinator
 
     * ## MVC
 
@@ -98,87 +100,87 @@ Content
 
         * https://github.com/tailec/ios-architecture
         * https://github.com/quickbirdstudios/SwiftUI-Architectures
-        * https://github.com/objcio/app-architecture.git
+        * https://github.com/objcio/app-architecture
 
 * # SwiftUI
 
-    * <https://github.com/Cosmo/OpenSwiftUI.git>
-    * https://github.com/SwiftUIX/SwiftUIX.git
-    * <https://github.com/TokamakUI/Tokamak.git>
-    * <https://github.com/SwiftWebUI/SwiftWebUI.git>
-    * https://github.com/AppPear/ChartView.git
+    * https://github.com/Cosmo/OpenSwiftUI
+    * https://github.com/SwiftUIX/SwiftUIX
+    * https://github.com/TokamakUI/Tokamak
+    * https://github.com/SwiftWebUI/SwiftWebUI
+    * https://github.com/AppPear/ChartView
 
 * # Function Programming and Reactive Programming
 
-    * <https://github.com/OpenCombine/OpenCombine.git>
-    * <https://github.com/cx-org/CombineX.git>
-    * <https://github.com/ReactiveX/RxSwift.git>
-    * <https://github.com/ReactiveCocoa/ReactiveSwift>
+    * https://github.com/OpenCombine/OpenCombine
+    * https://github.com/cx-org/CombineX
+    * https://github.com/ReactiveX/RxSwift
+    * https://github.com/ReactiveCocoa/ReactiveSwift
     * https://github.com/CombineCommunity
 
 * # Networking
 
-    * https://github.com/Alamofire/Alamofire.git
-    * https://github.com/daltoniam/Starscream.git
-    * https://github.com/FullStack-Swift/AnyRequest.git
+    * https://github.com/Alamofire/Alamofire
+    * https://github.com/daltoniam/Starscream
+    * https://github.com/FullStack-Swift/AnyRequest
 
 * # Data
 
     * https://github.com/realm/realm-cocoa
-    * https://github.com/apple/swift-collections.git
-    * https://github.com/apple/swift-collections-benchmark.git
-    * https://github.com/FullStack-Swift/Json.git
-    * https://github.com/FullStack-Swift/SwiftConvert.git
+    * https://github.com/apple/swift-collections
+    * https://github.com/apple/swift-collections-benchmark
+    * https://github.com/FullStack-Swift/Json
+    * https://github.com/FullStack-Swift/SwiftConvert
 
 * # Test
 
-    * https://github.com/apple/swift-corelibs-xctest.git
-    * https://github.com/google/swift-benchmark.git
-    * https://github.com/Quick/Nimble.git
-    * https://github.com/Quick/Quick.git
-    * https://github.com/pointfreeco/swift-custom-dump.git
+    * https://github.com/apple/swift-corelibs-xctest
+    * https://github.com/google/swift-benchmark
+    * https://github.com/Quick/Nimble
+    * https://github.com/Quick/Quick
+    * https://github.com/pointfreeco/swift-custom-dump
 
 * # Algorithm
 
     * https://github.com/raywenderlich/swift-algorithm-club
-    * https://github.com/apple/swift-algorithms.git
+    * https://github.com/apple/swift-algorithms
 
 * # Utilities
 
-    * https://github.com/apple/swift-log.git
-    * https://github.com/malcommac/SwiftDate.git
+    * https://github.com/apple/swift-log
+    * https://github.com/malcommac/SwiftDate
 
 * # Samples
 
-    * https://github.com/pointfreeco/episode-code-samples.git
-    * https://github.com/pointfreeco/pointfreeco.git
+    * https://github.com/pointfreeco/episode-code-samples
+    * https://github.com/pointfreeco/pointfreeco
 
 * # Open Source
 
-    * https://github.com/pointfreeco/isowords.git
-    * https://github.com/Dimillian/MovieSwiftUI.git
-    * https://github.com/Dimillian/RedditOS.git
-    * https://github.com/heckj/swiftui-notes.git
-    * https://github.com/RobotsAndPencils/XcodesApp.git
-    * https://github.com/carson-katri/reddit-swiftui.git
-    * https://github.com/waylybaye/XcodeCleaner-SwiftUI.git
-    * https://github.com/wxxsw/SwiftUI-WeChat.git
-    * https://github.com/unixzii/SwiftUI-2048.git
-    * https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI.git
-    * https://github.com/niochat/nio.git
+    * https://github.com/pointfreeco/isowords
+    * https://github.com/Dimillian/MovieSwiftUI
+    * https://github.com/Dimillian/RedditOS
+    * https://github.com/heckj/swiftui-notes
+    * https://github.com/RobotsAndPencils/XcodesApp
+    * https://github.com/carson-katri/reddit-swiftui
+    * https://github.com/waylybaye/XcodeCleaner-SwiftUI
+    * https://github.com/wxxsw/SwiftUI-WeChat
+    * https://github.com/unixzii/SwiftUI-2048
+    * https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI
+    * https://github.com/niochat/nio
 
 
 * # Swift Apple Source
 
-    * https://github.com/apple/swift.git
-    * https://github.com/apple/swift-nio.git
-    * https://github.com/apple/swift-package-manager.git
-    * https://github.com/apple/swift-argument-parser.git
-    * https://github.com/apple/swift-protobuf.git
-    * https://github.com/apple/swift-syntax.git
-    * https://github.com/apple/sourcekit-lsp.git
-    * https://github.com/apple/swift-format.git
-    * https://github.com/apple/swift-driver.git
+    * https://github.com/apple/swift
+    * https://github.com/apple/swift-nio
+    * https://github.com/apple/swift-package-manager
+    * https://github.com/apple/swift-argument-parser
+    * https://github.com/apple/swift-protobuf
+    * https://github.com/apple/swift-syntax
+    * https://github.com/apple/sourcekit-lsp
+    * https://github.com/apple/swift-format
+    * https://github.com/apple/swift-driver
 
 * # Design Pattern
 
@@ -188,8 +190,8 @@ Content
 * # Backend
 
     * https://github.com/vapor/vapor
-    * https://github.com/Kitura/Kitura.git
-    * https://github.com/PerfectlySoft/Perfect.git
+    * https://github.com/Kitura/Kitura
+    * https://github.com/PerfectlySoft/Perfect
     * https://github.com/Zewo/Zewo
     * https://github.com/crossroadlabs/Express
     * https://github.com/httpswift/swifter
