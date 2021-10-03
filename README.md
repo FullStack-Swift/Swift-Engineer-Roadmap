@@ -21,20 +21,26 @@ Content
 * # Architecture
 
     * ## TCA 
-
-        * <https://github.com/pointfreeco/swift-composable-architecture>
-        * https://github.com/NguyenPhongVN/rxswift-composable-architecture
-        * <https://github.com/trading-point/reactiveswift-composable-architecture.git>
-
+    * support IOS 13
+        * https://github.com/pointfreeco/swift-composable-architecture
+        * https://github.com/FullStack-Swift/rxswift-composable-architecture
+        * https://github.com/FullStack-Swift/reactiveswift-composable-architecture
+     * supoort IOS 11
+         * https://github.com/FullStack-Swift/reactiveswift-core-architecture
+         * https://github.com/FullStack-Swift/rxswift-core-architecture
     * ### Awesome TCA
 
         * https://www.pointfree.co/collections/composable-architecture
         * https://github.com/pointfreeco/isowords
         * https://github.com/pointfreeco/composable-core-location
         * https://github.com/pointfreeco/composable-core-motion
-        * https://github.com/NguyenPhongVN/TCA-Template.git
         * https://github.com/tgrapperon/swift-composable-environment
         * https://github.com/aacapella/swift-composable-undo.git
+        * https://github.com/FullStack-Swift/ComposableEnvironment
+        * https://github.com/FullStack-Swift/ComposableState
+        * https://github.com/FullStack-Swift/TCA-UIKit-Template
+        * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
+        * https://github.com/FullStack-Swift/TodoFullStackSwift
 
     * ## Redux: 
 
