@@ -55,7 +55,7 @@ Content
     * ## Feedback(Loop)
 
         * https://github.com/sergdort/CombineFeedback
-        * https://github.com/ReactiveCocoa/Loop.git>
+        * https://github.com/ReactiveCocoa/Loop
         * https://github.com/NoTests/RxFeedback.swift
         * https://github.com/CombineCommunity/Feedbacks
         * https://github.com/Spinners/Spin.Swift
