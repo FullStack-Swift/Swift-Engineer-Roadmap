@@ -47,7 +47,6 @@ Content
         * <https://github.com/ReSwift/ReSwift.git>
         * <https://github.com/SwiftRex/SwiftRex>
         * <https://github.com/Dimillian/SwiftUIFlux.git>
-        * https://github.com/NguyenPhongVN/Redux
 
     * ## Feedback(Loop)
 
@@ -83,7 +82,6 @@ Content
 
     * ## MVVM
 
-        * https://github.com/NguyenPhongVN/MVVM.git
 
     * ## MVP
 
@@ -98,7 +96,6 @@ Content
         * https://github.com/tailec/ios-architecture
         * https://github.com/quickbirdstudios/SwiftUI-Architectures
         * https://github.com/objcio/app-architecture.git
-        * https://github.com/NguyenPhongVN/Architecture
 
 * # SwiftUI
 
