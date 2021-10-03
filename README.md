@@ -28,9 +28,9 @@ Content
      * supoort IOS 11
          * https://github.com/FullStack-Swift/reactiveswift-core-architecture
          * https://github.com/FullStack-Swift/rxswift-core-architecture
-      * examples
+     * examples
          * https://github.com/FullStack-Swift/TodoFullStackSwift
-       * template
+      * template
          * https://github.com/FullStack-Swift/TCA-UIKit-Template
          * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
     * ### Awesome TCA
