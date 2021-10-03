@@ -82,6 +82,7 @@ Content
 
     * ## MVVM
 
+        * https://github.com/quickbirdstudios/SwiftUI-Architectures
 
     * ## MVP
 
@@ -121,11 +122,11 @@ Content
 
 * # Data
 
-    * https://github.com/FullStack-Swift/Json.git
-    * https://github.com/FullStack-Swift/SwiftConvert.git
     * https://github.com/realm/realm-cocoa
     * https://github.com/apple/swift-collections.git
     * https://github.com/apple/swift-collections-benchmark.git
+    * https://github.com/FullStack-Swift/Json.git
+    * https://github.com/FullStack-Swift/SwiftConvert.git
 
 * # Test
 
