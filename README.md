@@ -28,6 +28,11 @@ Content
      * supoort IOS 11
          * https://github.com/FullStack-Swift/reactiveswift-core-architecture
          * https://github.com/FullStack-Swift/rxswift-core-architecture
+      * examples
+         * https://github.com/FullStack-Swift/TodoFullStackSwift
+       * template
+         * https://github.com/FullStack-Swift/TCA-UIKit-Template
+         * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
     * ### Awesome TCA
 
         * https://www.pointfree.co/collections/composable-architecture
@@ -38,9 +43,6 @@ Content
         * https://github.com/aacapella/swift-composable-undo.git
         * https://github.com/FullStack-Swift/ComposableEnvironment
         * https://github.com/FullStack-Swift/ComposableState
-        * https://github.com/FullStack-Swift/TCA-UIKit-Template
-        * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
-        * https://github.com/FullStack-Swift/TodoFullStackSwift
 
     * ## Redux: 
 
