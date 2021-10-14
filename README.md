@@ -22,7 +22,7 @@ Content
 
     * ## TCA 
     * support IOS 13
-        * https://github.com/pointfreeco/swift-composable-architecture
+        * https://github.com/pointfreeco/swift-composable-architecture A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
         * https://github.com/FullStack-Swift/rxswift-composable-architecture
         * https://github.com/FullStack-Swift/reactiveswift-composable-architecture
      * supoort IOS 11
