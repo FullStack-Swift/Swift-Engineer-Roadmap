@@ -30,7 +30,7 @@ Content
         * https://github.com/FullStack-Swift/rxswift-core-architecture
         * https://github.com/FullStack-Swift/reactiveswift-core-architecture
      * examples
-        * https://github.com/FullStack-Swift/TodoFullStackSwift
+        * https://github.com/FullStack-Swift/TodoList
      * template
         * https://github.com/FullStack-Swift/TCA-UIKit-Template
         * https://github.com/FullStack-Swift/TCA-SwiftUI-Template
